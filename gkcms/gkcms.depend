@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1598390494 source:c:\users\hp\documents\cpp\gkcms\gkcms\win_mous.cpp
+
+1598436158 source:c:\users\hp\documents\cpp\gkcms\gkcms\main.cpp
+	<iostream>
+	<string>
+	<conio.h>
+	<time.h>
+	<stdlib.h>
+	<cwchar>
+	<windows.h>
+
+1598451712 source:c:\users\hp\documents\cpp\gkcms\gkcms\complain_form.cpp
+	"complain_form.h"
+
+1598451749 c:\users\hp\documents\cpp\gkcms\gkcms\complain_form.h
+	<iostream>
+
